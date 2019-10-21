@@ -235,6 +235,11 @@
   "block.upgrade_aquatic.elder_biorock_wall": "Muro de biorrocha de coral-de-prismarinho-ancião",
   "block.upgrade_aquatic.dead_biorock_wall": "Muro de biorrocha de coral morto",
   
+  "block.upgrade_aquatic.tooth_block": "Bloco de dente",
+  "block.upgrade_aquatic.tooth_slab": "Laje de dente",
+  "block.upgrade_aquatic.tooth_stairs": "Escadas de dente",
+  "block.upgrade_aquatic.tooth_wall": "Muro de dente",
+  
   "_comment": "Itens",
   
   "item.upgrade_aquatic.prismarine_rod": "Vara de prismarinho",
